@@ -13,4 +13,3 @@ if [ $? -eq 0 ]; then
 else
     echo "Error: Failed to clone repository."
     exit 1
-fi
